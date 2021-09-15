@@ -1,5 +1,5 @@
 
-
+// atividade do encontro de quinta feira
 var limite = 34
 
 for(let valorAtual = 0; valorAtual <=limite; valorAtual++ )
